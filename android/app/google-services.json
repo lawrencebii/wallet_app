@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "449124712115",
+    "project_id": "cybersec-6966a",
+    "storage_bucket": "cybersec-6966a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449124712115:android:a0579223ec943a0b2dbac6",
+        "android_client_info": {
+          "package_name": "com.pples_ops.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449124712115-c06m3f22jiudppar3ov9s5h88e6mrq6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9VqdDVn3b5miBv7xR_BUvEG98uPw1BYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449124712115-c06m3f22jiudppar3ov9s5h88e6mrq6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
